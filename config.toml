@@ -5,6 +5,7 @@ enableEmoji = true
 
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+publishDir = 'docs'
 
 baseURL = "https://example.com/"
 title = "Example - CV"
