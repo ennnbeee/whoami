@@ -14,17 +14,17 @@ title = "Nick Benton - CV"
 [params]
 enableMetaTags = true
 colorLight = "#fff"
-colorDark = "#666"
-colorPageBackground = "#ddd"
-colorPrimary = "#e3bfb8"
+colorDark = "#293341"
+colorPageBackground = "#bbc5d3"
+colorPrimary = "#286cf0"
 colorSecondary = "#aaa"
 colorIconPrimary = "#fff"
-colorIconBackground = "#e3bfb8"
+colorIconBackground = "#42b8fa"
 colorRightColumnBackground = "#f5f5f5"
-colorRightColumnHeadingText = "#666"
-colorRightColumnBodyText = "#666"
+colorRightColumnHeadingText = "#272c2f"
+colorRightColumnBodyText = "#272c2f"
 colorRightColumnIconPrimary = "#fff"
-colorRightColumnIconBackground = "#e3bfb8"
+colorRightColumnIconBackground = "#42b8fa"
 pages = 1
 # Set this param to 'true' to swap the bar positions
 swapColumns = false

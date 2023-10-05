@@ -4,84 +4,103 @@ BasicInfo:
   Photo: img/smolpig.png
   Contacts:
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: nickjbenton@gmail.com
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://ines-almeida.com" target="_blank">ines-almeida.com</a>
-    - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: <a class="contact__link" href="https://memv.ennbee.uk/" target="_blank">Blog</a>
+    - Icon: fab fa-linkedin
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/njbenton/" target="_blank">LinkedIn</a>
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: "I’m Nick Benton, an end-user computing specialist with over a decade of experience in consulting, architecture, design, and implementation of modern device management, and enterprise mobility solutions. I’m currently the Principal Consultant for Device Management at Phoenix Software Ltd who are the Microsoft Partner of the Year for Modern Endpoint Management 2023, where my main focus is assisting customers in their road to a modern workplace using Microsoft Intune, with a focus on migration, security and zero touch deployments."
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: Phoenix Software Ltd
+    Place: York, UK
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: Principal Consultant
+        Date: Mar 2023 - Present
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
+          - Specialising in improving delivery of Modern Device Management solutions for end-user device management, utilising Microsoft Intune and Microsoft Configuration Manager, automating delivery, process improvement and standardisation of Phoenix Software offerings to customers.
+        Badges: ['Microsoft Intune', 'Microsoft Configuration Manager', 'PowerShell', 'GraphAPI']
+      - Title: Senior Technical Consultant
+        Date: Sep 2021 - Mar 2023
         Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+          - Specialising in providing new and migrated solutions for end-user device management, utilising Microsoft Intune and Microsoft Configuration Manager, improving customers modern device management approach, unifying solutions and tools, and improving security posture.
+        Badges: ['Microsoft Intune', 'Microsoft Configuration Manager', 'PowerShell', 'GraphAPI']
+      - Title: Technical Consultant
+        Date: Jan 2021 - Sep 2021
+        Details:
+          - Specialising in providing solutions for end user device management, utilising Microsoft Endpoint Manager including System Center Endpoint Manager with a focus on migrating key security focused (NCSC, NEP, CIS, CSE) workloads to cloud based offerings.
+        Badges: ['Microsoft Intune', 'Microsoft Configuration Manager', 'PowerShell', 'GraphAPI']
+  - Employer: Piksel
+    Place: York, UK
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Technical Lead
+        Date: Aug 2019 - Dec 2020
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Responsible for all Corporate IT services provided to internal company users, inclusive but not limited to Office 365 components, Microsoft 365 components, branch office infrastructure, Modern Desktop estate, and Mobile Device Management
+          - Design and Lead technical resource on Microsoft 365 Phone System Deployment
+          - Microsoft Device Management deployment to macOS devices replacing Configuration Manager roles and features
+          - Extended internal teams move to a DevOps and Agile approach delivering project work utilising virtual teams across ITIL functions
+          - Design and lead technical resource on Intune Deployment to Windows 10 IoT PoS devices
+          - Design and lead on O365 and M365 professional service offerings to customers
+          - Design and lead on Configuration Manager professional service offerings to customers
+          - Technical lead on M365 security and compliance improvements
+        Badges: ['Microsoft Intune', 'Microsoft Configuration Manager', 'Microsoft 365', 'PowerShell']
+      - Title: Senior Microsoft Engineer
+        Date: May 2018 - Aug 2019
+        Details:
+          - Responsible for End User Computing components for the internal estate of Windows 10 and MacOS devices inclusive of Configuration Manager, Intune, Bitlocker and M365 services. Lead on internal project delivery and rollout across the company.
+          - macOS antivirus replacement to unify solution across the estate, inclusive of reporting, monitoring and alerting
+          - Implementation of enterprise level monitoring tool for M365 services using Azure Logic Apps
+          - Lead technical resource on Microsoft Teams rollout, inclusive of room based hardware and Skype for Business migration
+          - Lead on transition of roles from Configuration Manager to Intune, including Windows Update for Business, MDM, Windows Insider Programme, Autopilot OS deployment and Application Deployment
+          - Configured and implemented Office365 Pro Plus update ring and deployment across estate
+          - Integrated Azure Log Analytics with Configuration Manager and Intune to enable visibility of issues and compatibility as part of Windows 10 Servicing Plans
+          - Lead on migration from current Intranet solution to SharePoint Online
+          - Lead on file share migration to OneDrive for Business and SharePoint Online
+          - Spearheaded internal teams move to a DevOps and Agile approach of working, allowing for visibility of effort, time and resource.
+        Badges: ['Microsoft Intune', 'Microsoft Configuration Manager', 'Microsoft 365', 'PowerShell']
+  - Employer: Advance HE
+    Place: York, UK
+    # Class: "experience__extra_padding"
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: IT Systems Administrator
+        Date: Dec 2016 - May 2018
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Responsible for all Infrastructure and associated services for both internal and external customers, implementing service improvements along with ensuring utility and warranty of service and infrastructure solutions.
+          - Transitioned existing IT managed service providers, carrying out due diligence and planning to take over ownership of all infrastructure and services
+          - Implementation of enterprise level monitoring tool inclusive of integration into the ITSM tool for event notifications
+          - Implementation of automated patch process for Windows Servers alongside patching process for vulnerable applications via Configuration Manager to the estate
+          - Implementation of self service portal and searchable user focused knowledge base
+          - Migration of Exchange 2010 and Lync 2010 to Exchange and Skype for Business Online respectively
+          - Design, implementation and migration of existing Drupal 7 hosted website into IaaS Azure platform
+        Badges: ['Microsoft Intune', 'Microsoft Configuration Manager', 'Microsoft 365', 'PowerShell']
 
-Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+# Education:
+#  - Course: BSc & MSc in Biomedical Engineering and Biophysics
+#    Place: University of Lisbon
+#    Date: Sep 2012 - Nov 2017
+#    Details: Specialised in data analysis
 
-References:
-  - Name: Person One
-    Relation: Co-worker at Super Cool Company
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 790
-    - Icon: fas fa-envelope
-      Info: contact@person-one.com
-    - Icon: fas fa-map-marker-alt
-      Info: Melbourne, Australia
-  - Name: Person Two
-    Relation: Boss at Super Cool Company
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 791
-    - Icon: fas fa-envelope
-      Info: contact@person-two.com
-    - Icon: fas fa-map-marker-alt
-      Info: Sydney, Australia
+# References:
+#  - Name: Person One
+#    Relation: Co-worker at Super Cool Company
+#    Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 790
+#    - Icon: fas fa-envelope
+#      Info: contact@person-one.com
+#    - Icon: fas fa-map-marker-alt
+#      Info: Melbourne, Australia
+#  - Name: Person Two
+#    Relation: Boss at Super Cool Company
+#    Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 791
+#    - Icon: fas fa-envelope
+#      Info: contact@person-two.com
+#    - Icon: fas fa-map-marker-alt
+#      Info: Sydney, Australia
 
 
 Skills:
@@ -113,14 +132,17 @@ Skills:
       - Adobe Tools
       - LaTeX
 
-Languages:
-  - Name: English
-    Level: Native
+# Languages:
+#  - Name: English
+#    Level: Native
 
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - Microsoft 365 Certified Enterprise Administrator
+  - Microsoft 365 Certified Endpoint Administrator Associate
+  - Microsoft 365 Certified Security Administrator Associate
+  - ITIL v3
+
 
 Interests:
   - Bouldering
