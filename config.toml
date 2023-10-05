@@ -8,7 +8,7 @@ disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 publishDir = 'docs'
 
 baseURL = "https://memv.ennbee.uk/whoami/"
-title = "Nick Benton - CV"
+title = "Nick Benton"
 #googleAnalytics = ""
 
 [params]
