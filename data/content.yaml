@@ -1,10 +1,8 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
-  Photo: img/avatar.jpg
+  FirstName: Nick
+  LastName: Benton
+  Photo: img/smolpig.png
   Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 789
     - Icon: fas fa-envelope
       Info: contact@ines-almeida.com
     - Icon: fas fa-globe
@@ -116,14 +114,9 @@ Skills:
       - LaTeX
 
 Languages:
-  - Name: Portuguese
-    Level: Native
   - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
+    Level: Native
+
 
 Diplomas:
   - ISTQB Tester Certification (2019)

@@ -7,8 +7,8 @@ theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 publishDir = 'docs'
 
-baseURL = "https://example.com/"
-title = "Example - CV"
+baseURL = "https://memv.ennbee.uk/whoami/"
+title = "Nick Benton - CV"
 #googleAnalytics = ""
 
 [params]
